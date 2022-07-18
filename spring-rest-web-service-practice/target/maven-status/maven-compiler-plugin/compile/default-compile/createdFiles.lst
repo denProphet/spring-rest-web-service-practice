@@ -1,0 +1,5 @@
+prophet/practice/web/model/ClientDTO.class
+prophet/practice/web/service/impls/MemClientService.class
+prophet/practice/web/SpringRestWebServicePracticeApplication.class
+prophet/practice/web/service/api/ClientService.class
+prophet/practice/web/controller/ClientController.class
